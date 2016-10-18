@@ -8,10 +8,12 @@ namespace 华春板卡继电器测试
     class Measure
     {
 
-        public string name { get; set; }
+        public string name2 { get; set; }
 
         public void mesure()
         {
+            //第1步
+            //第2步
             
         }
     }
