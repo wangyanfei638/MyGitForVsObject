@@ -1,0 +1,47 @@
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.exe
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.pdb
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form1.resources
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Properties.Resources.resources
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.exe
+D:\VSC#Study\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.pdb
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.exe
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.pdb
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form1.resources
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form2.resources
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.exe
+C:\Documents and Settings\Administrator\桌面\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.pdb
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.exe
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.pdb
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form1.resources
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form2.resources
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Properties.Resources.resources
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.exe
+D:\王延飞项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.pdb
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.exe
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.pdb
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.exe
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.pdb
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.csprojResolveAssemblyReference.cache
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form1.resources
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form2.resources
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Properties.Resources.resources
+E:\加固笔记本内容\项目\自编Demo项目\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.csproj.GenerateResource.Cache
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.exe
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.pdb
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.exe
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\bin\Debug\华春板卡继电器测试.pdb
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.csprojResolveAssemblyReference.cache
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form1.resources
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Form2.resources
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.Properties.Resources.resources
+D:\Study\git\VS2015GitRepos\华春板卡继电器测试\华春板卡继电器测试\obj\x86\Debug\华春板卡继电器测试.csproj.GenerateResource.Cache
