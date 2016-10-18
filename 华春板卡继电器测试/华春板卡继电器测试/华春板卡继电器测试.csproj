@@ -60,7 +60,7 @@
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="HighPerformanceTimer.cs" />
-    <Compile Include="IMeasure.cs" />
+    <Compile Include="Measure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
